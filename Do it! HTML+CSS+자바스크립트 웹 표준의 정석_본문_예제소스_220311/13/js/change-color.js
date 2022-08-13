@@ -1,4 +1,4 @@
-		var heading = document.querySelector('#heading');
-		heading.onclick = function() {
-			heading.style.color = "red";
-		}
+var heading = document.querySelector("#heading");
+heading.onclick = function () {
+  heading.style.color = "yellow";
+};
